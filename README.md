@@ -1,0 +1,22 @@
+- Creation
+- Operations
+  - takeWhile
+  - scan
+  - flatMap
+  - delay
+  - retry
+  - retryWhen
+  - defer
+  - merge
+  - concat
+  - onErrorResumeNext
+  - catch
+
+- Mouse Tracking Dom element
+- XMLHTTPRequests - load static json
+- Fetch
+- Error Handling
+- Passing an error on defered Observable?
+  - what does retry work on?
+- cancel http request using xmlhttp
+- unsubcribe & retry
